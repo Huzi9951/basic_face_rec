@@ -1,4 +1,6 @@
 streamlit
-face_recognition
-Pillow
 numpy
+Pillow
+cmake
+dlib==19.24.0
+face_recognition
